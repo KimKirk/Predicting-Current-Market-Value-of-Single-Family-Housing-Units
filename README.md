@@ -2,16 +2,11 @@
 - Predicting current market value of single family housing units
 - Finance: Housing
 
-- All files are self-contained analysis reports that include necessary variables.
-
-- Many businesses still use Excel as a primary "database"/data storage device; to accomodate this, all files are Excel based and analysis was run using Excel.
-
 - Inferential data analysis was conducted using multivariate linear regression to predict current market value of single family housing units for 2013. 
 
 
 ## Processing Instructions:
-- Use Excel or application that can open .xlsx files to view the analysis report.
-- Each worksheet is labeled to include "Summary Report", "Descriptive Statistics", "Graphs/Charts", and "Statistical Test".
+- Analysis is in pdf.
 - Data Analysis Report is in pdf.
 - Codebook is in pdf.
 
