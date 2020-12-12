@@ -13,7 +13,7 @@
 
 ## Steps to Transformation:
 ### Data was tidied by:
-- Dataset was downloaded from host website: https://www.huduser.gov/portal/datasets/hads/hads.html
+- Dataset was downloaded from [host website](https://www.huduser.gov/portal/datasets/hads/hads.html)
 - Data was cleaned to include only single-family houses, flats, apartments with Fair Market Value of more than $1000.00 owned in 2013 as this was the subset that stakeholders wanted to focus on.
   - Missing values made up 4.1% of the data and were discarded per stakeholder input.
 - VALUE 2013 was determined to be the outcome variable.
