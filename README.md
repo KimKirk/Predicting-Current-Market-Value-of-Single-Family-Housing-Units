@@ -2,7 +2,7 @@
 - Predicting current market value of single family housing units
 - Finance: Housing
 
-- Inferential data analysis was conducted using multivariate linear regression to predict current market value of single family housing units for 2013. 
+- Inferential data analysis was conducted using multivariable linear regression to predict current market value of single family housing units for 2013. 
 
 
 ## Processing Instructions:
